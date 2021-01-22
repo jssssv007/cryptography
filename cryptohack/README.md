@@ -2,11 +2,11 @@ Encoding:
 
 
 
-`Ascii:
+```Ascii:
 
 
 For the Ascii question ; we should just change those ascii values to their corresponding charecters to get the flag . 
-I have just printedthe charecters in a line .`
+I have just printedthe charecters in a line .
 
 
 
