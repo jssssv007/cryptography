@@ -1,4 +1,4 @@
-For the question xor properties ; we will be using associative law .
+For the question xor properties ;
 
 We will be xoring key2^key3 and key1 
 
