@@ -33,9 +33,4 @@ Repeating key XOR is about xoring the given text with the key in a parallel way 
 I have converted both the text and key into bytes and xored them and once again decoded them to hex to get the
 desired answer .
 ```
-Detect single-character XOR:
-```
-This question is similar to the previous question (Single-byte XOR cipher) . But in this question ; there were several
-lines of input was there and we have to get the appropriate output . Here also I have used the same logic for getting 
-the meaningful text . I have checked whether the given text contains only alphabets and spaces .
-```
+
