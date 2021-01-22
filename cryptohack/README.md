@@ -1,3 +1,23 @@
+Encoding:
+~~~For the Ascii question ; we should just change those ascii values 
+to their corresponding charecters to get the flag . I have just printed
+the charecters in a line .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ~~~For the question xor properties ;
 
 We will be xoring key2^key3 and key1 
