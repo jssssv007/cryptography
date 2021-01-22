@@ -36,7 +36,7 @@ with key1^key2^key3 which we will be getting in the above step to get the flag
 Favourite byte:
 In this question ; firstly I have decoded the string from hex and changed it to bytes . These bytes were xored with 
 all the numbers from 1 to 256 and stored in an array and now our task is to decode these bytes and search for a 
-string which contains "crypto" in it and if it was meaningfu; . I have used try and except because while decoding ; 
+string which contains "crypto" in it and if it was meaningful . I have used try and except because while decoding ; 
 some of the bytes were not decoded properly and they were giving errors . We can even use "ignore" while decoding 
 the byte which ignores the error and continues with the positive outputs . And now we will get the flag .
 
