@@ -1,7 +1,7 @@
 Encoding:
 ~~~For the Ascii question ; we should just change those ascii values 
 to their corresponding charecters to get the flag . I have just printed
-the charecters in a line .
+the charecters in a line .#
 
 
 
