@@ -6,7 +6,7 @@ def sol():
 				print(k)
 				print(arr[i])
 		except:
-			return "kjvhsdc"
+			print("",end="")
 x="73626960647f6b206821204f21254f7d694f7624662065622127234f726927756d"
 y=bytes.fromhex(x).decode("utf-8")
 k=bytes(y,'utf-8')
