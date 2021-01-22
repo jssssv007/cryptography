@@ -3,19 +3,17 @@ Encoding:
 
 
 ```Ascii:
-
-
 For the Ascii question ; we should just change those ascii values to their corresponding charecters to get the flag . 
 I have just printedthe charecters in a line .
 
-
-
-
 Hex:
-
-
 For the Hex question ; I have just converted the hex to text using the following command 
 print(bytes.fromhex(arr).decode('utf-8'))
+
+Base64:
+
+
+
 ```
 
 
