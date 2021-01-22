@@ -16,7 +16,7 @@ Hex:
 
 For the Hex question ; I have just converted the hex to text using the following command 
 print(bytes.fromhex(arr).decode('utf-8'))
-
+```
 
 
 
