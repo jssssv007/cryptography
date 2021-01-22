@@ -26,6 +26,8 @@ print(bytes.fromhex(arr).decode('utf-8'))
 
 
 
+
+
 For the question xor properties ;
 
 We will be xoring key2^key3 and key1 
