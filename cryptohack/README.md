@@ -48,4 +48,8 @@ sufficient for getting the answer as it gives some errors while decoding the str
 assume that the key will be "myXORkey" as the key for xoring will always be meaningful . Now we can decode and get
 the flag using this key.
 
+Lemur XOR:
+Here we will be given two images and we have to get the flag with these two images . In the question they have 
+already stated that both the images were xored with the same key . So by xoring these two images in a bitwise 
+way ; we will get an image and it contains the flag "crypto{X0Rly_n0t!}".
 ```
